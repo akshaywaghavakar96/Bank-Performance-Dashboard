@@ -1,0 +1,101 @@
+bank_id,bank_name,bank_short,bank_type,bank_size,region,product_id,product_name,rm_name,go_live_date,is_active,headquarters
+BNK001,State Bank of India,SBI,Public,Large,North,PRD001,UPI,Priya Nair,2021-01-26,Y,Hyderabad
+BNK001,State Bank of India,SBI,Public,Large,North,PRD002,IMPS,Suresh Yadav,2021-09-08,Y,Delhi
+BNK001,State Bank of India,SBI,Public,Large,North,PRD003,AEPS,Rajan Mehta,2021-04-15,Y,Hyderabad
+BNK001,State Bank of India,SBI,Public,Large,North,PRD004,NFS,Karthik Rao,2021-03-31,Y,Kolkata
+BNK001,State Bank of India,SBI,Public,Large,North,PRD005,RUPAY,Vikram Singh,2021-02-02,Y,Mumbai
+BNK002,HDFC Bank,HDFC,Private,Large,West,PRD001,UPI,Priya Nair,2021-08-12,Y,Delhi
+BNK002,HDFC Bank,HDFC,Private,Large,West,PRD002,IMPS,Karthik Rao,2022-09-09,Y,Mumbai
+BNK002,HDFC Bank,HDFC,Private,Large,West,PRD003,AEPS,Karthik Rao,2021-07-23,Y,Hyderabad
+BNK002,HDFC Bank,HDFC,Private,Large,West,PRD004,NFS,Karthik Rao,2022-03-06,Y,Delhi
+BNK002,HDFC Bank,HDFC,Private,Large,West,PRD005,RUPAY,Anita Desai,2022-08-27,Y,Bangalore
+BNK003,ICICI Bank,ICICI,Private,Large,West,PRD001,UPI,Amit Sharma,2021-06-13,Y,Hyderabad
+BNK003,ICICI Bank,ICICI,Private,Large,West,PRD002,IMPS,Vikram Singh,2021-12-15,Y,Bangalore
+BNK003,ICICI Bank,ICICI,Private,Large,West,PRD003,AEPS,Rajan Mehta,2021-08-09,Y,Bangalore
+BNK003,ICICI Bank,ICICI,Private,Large,West,PRD004,NFS,Priya Nair,2021-04-05,Y,Chennai
+BNK003,ICICI Bank,ICICI,Private,Large,West,PRD005,RUPAY,Priya Nair,2022-01-03,Y,Bangalore
+BNK004,Axis Bank,AXIS,Private,Large,West,PRD001,UPI,Pooja Gupta,2021-09-28,Y,Mumbai
+BNK004,Axis Bank,AXIS,Private,Large,West,PRD002,IMPS,Anita Desai,2022-07-04,Y,Mumbai
+BNK004,Axis Bank,AXIS,Private,Large,West,PRD003,AEPS,Vikram Singh,2021-03-22,Y,Kolkata
+BNK004,Axis Bank,AXIS,Private,Large,West,PRD004,NFS,Suresh Yadav,2022-10-06,Y,Kolkata
+BNK004,Axis Bank,AXIS,Private,Large,West,PRD005,RUPAY,Meena Pillai,2022-08-15,Y,Delhi
+BNK005,Bank of Baroda,BOB,Public,Large,West,PRD001,UPI,Priya Nair,2021-02-16,Y,Hyderabad
+BNK005,Bank of Baroda,BOB,Public,Large,West,PRD002,IMPS,Deepa Iyer,2021-10-24,Y,Mumbai
+BNK005,Bank of Baroda,BOB,Public,Large,West,PRD003,AEPS,Deepa Iyer,2021-04-14,Y,Chennai
+BNK005,Bank of Baroda,BOB,Public,Large,West,PRD004,NFS,Suresh Yadav,2022-04-10,Y,Hyderabad
+BNK005,Bank of Baroda,BOB,Public,Large,West,PRD005,RUPAY,Meena Pillai,2021-06-16,Y,Bangalore
+BNK006,Kotak Mahindra Bank,KMB,Private,Mid,West,PRD001,UPI,Meena Pillai,2021-08-03,Y,Hyderabad
+BNK006,Kotak Mahindra Bank,KMB,Private,Mid,West,PRD002,IMPS,Suresh Yadav,2022-12-20,Y,Hyderabad
+BNK006,Kotak Mahindra Bank,KMB,Private,Mid,West,PRD003,AEPS,Priya Nair,2022-09-16,Y,Hyderabad
+BNK006,Kotak Mahindra Bank,KMB,Private,Mid,West,PRD004,NFS,Rajan Mehta,2022-07-01,Y,Hyderabad
+BNK006,Kotak Mahindra Bank,KMB,Private,Mid,West,PRD005,RUPAY,Deepa Iyer,2021-06-17,Y,Chennai
+BNK007,Punjab National Bank,PNB,Public,Large,North,PRD001,UPI,Vikram Singh,2021-10-04,Y,Hyderabad
+BNK007,Punjab National Bank,PNB,Public,Large,North,PRD002,IMPS,Karthik Rao,2021-08-13,Y,Hyderabad
+BNK007,Punjab National Bank,PNB,Public,Large,North,PRD003,AEPS,Meena Pillai,2021-02-27,Y,Delhi
+BNK007,Punjab National Bank,PNB,Public,Large,North,PRD004,NFS,Amit Sharma,2021-11-20,Y,Chennai
+BNK007,Punjab National Bank,PNB,Public,Large,North,PRD005,RUPAY,Suresh Yadav,2021-03-09,Y,Delhi
+BNK008,Canara Bank,CAN,Public,Large,South,PRD001,UPI,Pooja Gupta,2021-11-19,Y,Delhi
+BNK008,Canara Bank,CAN,Public,Large,South,PRD002,IMPS,Anita Desai,2022-02-10,Y,Hyderabad
+BNK008,Canara Bank,CAN,Public,Large,South,PRD003,AEPS,Anita Desai,2021-05-27,Y,Bangalore
+BNK008,Canara Bank,CAN,Public,Large,South,PRD004,NFS,Rajan Mehta,2021-09-10,Y,Hyderabad
+BNK008,Canara Bank,CAN,Public,Large,South,PRD005,RUPAY,Karthik Rao,2022-07-06,Y,Bangalore
+BNK009,IndusInd Bank,IIB,Private,Mid,South,PRD001,UPI,Pooja Gupta,2022-03-15,Y,Kolkata
+BNK009,IndusInd Bank,IIB,Private,Mid,South,PRD002,IMPS,Vikram Singh,2022-01-06,Y,Delhi
+BNK009,IndusInd Bank,IIB,Private,Mid,South,PRD003,AEPS,Rajan Mehta,2022-06-06,Y,Chennai
+BNK009,IndusInd Bank,IIB,Private,Mid,South,PRD004,NFS,Priya Nair,2021-02-18,Y,Mumbai
+BNK009,IndusInd Bank,IIB,Private,Mid,South,PRD005,RUPAY,Rajan Mehta,2022-10-05,Y,Delhi
+BNK010,Union Bank of India,UBI,Public,Mid,West,PRD001,UPI,Vikram Singh,2022-09-03,Y,Mumbai
+BNK010,Union Bank of India,UBI,Public,Mid,West,PRD002,IMPS,Vikram Singh,2022-01-26,Y,Kolkata
+BNK010,Union Bank of India,UBI,Public,Mid,West,PRD003,AEPS,Anita Desai,2022-06-26,Y,Bangalore
+BNK010,Union Bank of India,UBI,Public,Mid,West,PRD004,NFS,Karthik Rao,2021-01-12,Y,Hyderabad
+BNK010,Union Bank of India,UBI,Public,Mid,West,PRD005,RUPAY,Priya Nair,2022-11-30,Y,Kolkata
+BNK011,Yes Bank,YES,Private,Mid,West,PRD001,UPI,Suresh Yadav,2022-10-19,Y,Bangalore
+BNK011,Yes Bank,YES,Private,Mid,West,PRD002,IMPS,Priya Nair,2021-10-28,Y,Chennai
+BNK011,Yes Bank,YES,Private,Mid,West,PRD003,AEPS,Rajan Mehta,2022-04-10,Y,Mumbai
+BNK011,Yes Bank,YES,Private,Mid,West,PRD004,NFS,Suresh Yadav,2022-05-28,Y,Delhi
+BNK011,Yes Bank,YES,Private,Mid,West,PRD005,RUPAY,Karthik Rao,2021-04-19,Y,Hyderabad
+BNK012,Federal Bank,FED,Private,Mid,South,PRD001,UPI,Suresh Yadav,2022-10-17,Y,Kolkata
+BNK012,Federal Bank,FED,Private,Mid,South,PRD002,IMPS,Pooja Gupta,2021-07-23,Y,Delhi
+BNK012,Federal Bank,FED,Private,Mid,South,PRD003,AEPS,Meena Pillai,2021-06-15,Y,Kolkata
+BNK012,Federal Bank,FED,Private,Mid,South,PRD004,NFS,Karthik Rao,2021-01-01,Y,Kolkata
+BNK012,Federal Bank,FED,Private,Mid,South,PRD005,RUPAY,Meena Pillai,2022-05-16,Y,Mumbai
+BNK013,IDBI Bank,IDBI,Public,Mid,West,PRD001,UPI,Priya Nair,2022-01-07,Y,Bangalore
+BNK013,IDBI Bank,IDBI,Public,Mid,West,PRD002,IMPS,Deepa Iyer,2021-03-01,Y,Delhi
+BNK013,IDBI Bank,IDBI,Public,Mid,West,PRD003,AEPS,Pooja Gupta,2021-03-22,Y,Mumbai
+BNK013,IDBI Bank,IDBI,Public,Mid,West,PRD004,NFS,Anita Desai,2021-03-12,Y,Kolkata
+BNK013,IDBI Bank,IDBI,Public,Mid,West,PRD005,RUPAY,Rajan Mehta,2021-05-12,Y,Hyderabad
+BNK014,RBL Bank,RBL,Private,Small,West,PRD001,UPI,Anita Desai,2022-07-17,Y,Delhi
+BNK014,RBL Bank,RBL,Private,Small,West,PRD002,IMPS,Suresh Yadav,2022-06-25,Y,Kolkata
+BNK014,RBL Bank,RBL,Private,Small,West,PRD003,AEPS,Vikram Singh,2021-08-05,Y,Kolkata
+BNK014,RBL Bank,RBL,Private,Small,West,PRD004,NFS,Deepa Iyer,2023-01-01,Y,Bangalore
+BNK014,RBL Bank,RBL,Private,Small,West,PRD005,RUPAY,Vikram Singh,2022-11-19,Y,Hyderabad
+BNK015,Bank of India,BOI,Public,Mid,West,PRD001,UPI,Meena Pillai,2022-03-25,Y,Kolkata
+BNK015,Bank of India,BOI,Public,Mid,West,PRD002,IMPS,Anita Desai,2021-05-04,Y,Delhi
+BNK015,Bank of India,BOI,Public,Mid,West,PRD003,AEPS,Deepa Iyer,2021-03-07,Y,Bangalore
+BNK015,Bank of India,BOI,Public,Mid,West,PRD004,NFS,Amit Sharma,2022-08-26,Y,Kolkata
+BNK015,Bank of India,BOI,Public,Mid,West,PRD005,RUPAY,Deepa Iyer,2022-08-26,Y,Delhi
+BNK016,South Indian Bank,SIB,Private,Small,South,PRD001,UPI,Amit Sharma,2021-03-14,Y,Hyderabad
+BNK016,South Indian Bank,SIB,Private,Small,South,PRD002,IMPS,Amit Sharma,2021-08-23,Y,Mumbai
+BNK016,South Indian Bank,SIB,Private,Small,South,PRD003,AEPS,Amit Sharma,2021-12-05,Y,Mumbai
+BNK016,South Indian Bank,SIB,Private,Small,South,PRD004,NFS,Karthik Rao,2021-09-01,Y,Bangalore
+BNK016,South Indian Bank,SIB,Private,Small,South,PRD005,RUPAY,Anita Desai,2021-08-08,Y,Kolkata
+BNK017,Karnataka Bank,KBL,Private,Small,South,PRD001,UPI,Rajan Mehta,2022-08-08,Y,Kolkata
+BNK017,Karnataka Bank,KBL,Private,Small,South,PRD002,IMPS,Anita Desai,2021-09-06,Y,Chennai
+BNK017,Karnataka Bank,KBL,Private,Small,South,PRD003,AEPS,Vikram Singh,2021-07-14,Y,Mumbai
+BNK017,Karnataka Bank,KBL,Private,Small,South,PRD004,NFS,Priya Nair,2022-11-06,Y,Chennai
+BNK017,Karnataka Bank,KBL,Private,Small,South,PRD005,RUPAY,Meena Pillai,2022-03-10,Y,Chennai
+BNK018,UCO Bank,UCO,Public,Small,East,PRD001,UPI,Anita Desai,2021-02-25,Y,Hyderabad
+BNK018,UCO Bank,UCO,Public,Small,East,PRD002,IMPS,Priya Nair,2021-03-04,Y,Chennai
+BNK018,UCO Bank,UCO,Public,Small,East,PRD003,AEPS,Meena Pillai,2021-04-22,Y,Delhi
+BNK018,UCO Bank,UCO,Public,Small,East,PRD004,NFS,Deepa Iyer,2021-07-14,Y,Kolkata
+BNK018,UCO Bank,UCO,Public,Small,East,PRD005,RUPAY,Anita Desai,2021-05-24,Y,Chennai
+BNK019,Indian Overseas Bank,IOB,Public,Small,South,PRD001,UPI,Rajan Mehta,2021-10-13,Y,Chennai
+BNK019,Indian Overseas Bank,IOB,Public,Small,South,PRD002,IMPS,Deepa Iyer,2021-03-19,Y,Chennai
+BNK019,Indian Overseas Bank,IOB,Public,Small,South,PRD003,AEPS,Karthik Rao,2021-04-11,Y,Mumbai
+BNK019,Indian Overseas Bank,IOB,Public,Small,South,PRD004,NFS,Karthik Rao,2021-01-16,Y,Mumbai
+BNK019,Indian Overseas Bank,IOB,Public,Small,South,PRD005,RUPAY,Deepa Iyer,2021-06-20,Y,Chennai
+BNK020,Central Bank of India,CBI,Public,Small,Central,PRD001,UPI,Anita Desai,2022-05-08,Y,Delhi
+BNK020,Central Bank of India,CBI,Public,Small,Central,PRD002,IMPS,Vikram Singh,2021-03-02,Y,Delhi
+BNK020,Central Bank of India,CBI,Public,Small,Central,PRD003,AEPS,Vikram Singh,2021-01-03,Y,Chennai
+BNK020,Central Bank of India,CBI,Public,Small,Central,PRD004,NFS,Suresh Yadav,2022-04-11,Y,Bangalore
+BNK020,Central Bank of India,CBI,Public,Small,Central,PRD005,RUPAY,Vikram Singh,2022-12-15,Y,Hyderabad

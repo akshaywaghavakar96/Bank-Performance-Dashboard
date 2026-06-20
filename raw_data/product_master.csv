@@ -1,0 +1,6 @@
+product_id,product_name,category,launch_year,regulator
+PRD001,UPI,Real-Time Payments,2016,NPCI/RBI
+PRD002,IMPS,Real-Time Payments,2010,NPCI/RBI
+PRD003,AEPS,Aadhaar Enabled,2016,NPCI/UIDAI
+PRD004,NFS,ATM Network,1997,NPCI/RBI
+PRD005,RUPAY,Card Network,2012,NPCI/RBI

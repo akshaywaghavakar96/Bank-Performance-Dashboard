@@ -1,0 +1,241 @@
+bank_id,month,month_label,rm_name,visits_planned,visits_completed,escalations_raised,escalations_closed,bank_score,remarks
+BNK001,2024-04-01,Apr-2024,Meena Pillai,9,2,4,3,59.6,Performing Well
+BNK001,2024-05-01,May-2024,Meena Pillai,7,10,5,4,54.1,On Track
+BNK001,2024-06-01,Jun-2024,Meena Pillai,6,1,0,5,87.0,Excellent Growth
+BNK001,2024-07-01,Jul-2024,Meena Pillai,5,4,4,2,83.3,Lagging on Volume
+BNK001,2024-08-01,Aug-2024,Meena Pillai,3,9,3,3,56.4,Needs Attention
+BNK001,2024-09-01,Sep-2024,Meena Pillai,4,1,2,5,63.1,On Track
+BNK001,2024-10-01,Oct-2024,Meena Pillai,10,8,5,1,81.4,Lagging on Volume
+BNK001,2024-11-01,Nov-2024,Meena Pillai,8,6,5,3,53.5,Needs Attention
+BNK001,2024-12-01,Dec-2024,Meena Pillai,5,2,4,4,56.8,Needs Attention
+BNK001,2025-01-01,Jan-2025,Meena Pillai,3,7,1,0,76.3,Lagging on Volume
+BNK001,2025-02-01,Feb-2025,Meena Pillai,7,2,3,3,53.2,Needs Attention
+BNK001,2025-03-01,Mar-2025,Meena Pillai,3,3,1,3,63.1,On Track
+BNK002,2024-04-01,Apr-2024,Meena Pillai,9,10,1,3,75.3,Performing Well
+BNK002,2024-05-01,May-2024,Meena Pillai,4,7,3,3,63.7,Needs Attention
+BNK002,2024-06-01,Jun-2024,Meena Pillai,5,4,4,5,53.4,Excellent Growth
+BNK002,2024-07-01,Jul-2024,Meena Pillai,6,3,2,1,89.4,Excellent Growth
+BNK002,2024-08-01,Aug-2024,Meena Pillai,5,7,3,0,58.7,Excellent Growth
+BNK002,2024-09-01,Sep-2024,Meena Pillai,6,8,4,2,80.3,Excellent Growth
+BNK002,2024-10-01,Oct-2024,Meena Pillai,8,3,1,2,59.3,Excellent Growth
+BNK002,2024-11-01,Nov-2024,Meena Pillai,9,5,2,2,84.2,Performing Well
+BNK002,2024-12-01,Dec-2024,Meena Pillai,6,7,5,5,77.1,Excellent Growth
+BNK002,2025-01-01,Jan-2025,Meena Pillai,4,2,0,2,89.2,Needs Attention
+BNK002,2025-02-01,Feb-2025,Meena Pillai,6,1,3,2,51.2,Excellent Growth
+BNK002,2025-03-01,Mar-2025,Meena Pillai,3,6,4,3,73.9,Performing Well
+BNK003,2024-04-01,Apr-2024,Rajan Mehta,8,6,4,5,83.0,On Track
+BNK003,2024-05-01,May-2024,Rajan Mehta,9,3,3,4,73.9,Excellent Growth
+BNK003,2024-06-01,Jun-2024,Rajan Mehta,3,3,2,4,54.9,Needs Attention
+BNK003,2024-07-01,Jul-2024,Rajan Mehta,3,5,3,1,73.4,On Track
+BNK003,2024-08-01,Aug-2024,Rajan Mehta,9,3,5,3,69.8,On Track
+BNK003,2024-09-01,Sep-2024,Rajan Mehta,6,3,1,2,75.4,On Track
+BNK003,2024-10-01,Oct-2024,Rajan Mehta,3,3,4,2,67.2,Excellent Growth
+BNK003,2024-11-01,Nov-2024,Rajan Mehta,10,8,1,5,72.8,Excellent Growth
+BNK003,2024-12-01,Dec-2024,Rajan Mehta,6,10,2,3,92.6,Performing Well
+BNK003,2025-01-01,Jan-2025,Rajan Mehta,8,2,4,5,90.8,Performing Well
+BNK003,2025-02-01,Feb-2025,Rajan Mehta,10,5,5,0,53.7,Lagging on Volume
+BNK003,2025-03-01,Mar-2025,Rajan Mehta,6,7,3,0,60.9,Excellent Growth
+BNK004,2024-04-01,Apr-2024,Pooja Gupta,9,3,2,3,97.9,Lagging on Volume
+BNK004,2024-05-01,May-2024,Pooja Gupta,9,2,0,1,68.2,Excellent Growth
+BNK004,2024-06-01,Jun-2024,Pooja Gupta,7,3,1,1,51.5,On Track
+BNK004,2024-07-01,Jul-2024,Pooja Gupta,3,6,3,1,51.6,Excellent Growth
+BNK004,2024-08-01,Aug-2024,Pooja Gupta,5,10,1,5,62.6,Excellent Growth
+BNK004,2024-09-01,Sep-2024,Pooja Gupta,5,9,3,1,98.1,Needs Attention
+BNK004,2024-10-01,Oct-2024,Pooja Gupta,4,1,3,5,85.8,Excellent Growth
+BNK004,2024-11-01,Nov-2024,Pooja Gupta,6,2,1,5,72.1,Lagging on Volume
+BNK004,2024-12-01,Dec-2024,Pooja Gupta,8,5,4,2,57.5,On Track
+BNK004,2025-01-01,Jan-2025,Pooja Gupta,10,3,0,0,80.9,On Track
+BNK004,2025-02-01,Feb-2025,Pooja Gupta,7,3,4,3,62.7,On Track
+BNK004,2025-03-01,Mar-2025,Pooja Gupta,9,3,3,4,84.9,Needs Attention
+BNK005,2024-04-01,Apr-2024,Amit Sharma,9,6,0,1,81.2,Performing Well
+BNK005,2024-05-01,May-2024,Amit Sharma,8,6,0,5,85.5,On Track
+BNK005,2024-06-01,Jun-2024,Amit Sharma,8,2,0,4,55.7,Performing Well
+BNK005,2024-07-01,Jul-2024,Amit Sharma,7,3,1,3,93.9,Needs Attention
+BNK005,2024-08-01,Aug-2024,Amit Sharma,3,1,1,3,50.5,Lagging on Volume
+BNK005,2024-09-01,Sep-2024,Amit Sharma,5,3,1,2,51.9,Excellent Growth
+BNK005,2024-10-01,Oct-2024,Amit Sharma,6,1,5,1,83.5,Needs Attention
+BNK005,2024-11-01,Nov-2024,Amit Sharma,7,4,3,2,90.3,Excellent Growth
+BNK005,2024-12-01,Dec-2024,Amit Sharma,4,7,4,1,92.5,Excellent Growth
+BNK005,2025-01-01,Jan-2025,Amit Sharma,3,10,0,3,85.5,Needs Attention
+BNK005,2025-02-01,Feb-2025,Amit Sharma,4,7,3,4,69.3,Excellent Growth
+BNK005,2025-03-01,Mar-2025,Amit Sharma,10,5,0,1,60.3,On Track
+BNK006,2024-04-01,Apr-2024,Meena Pillai,7,6,2,2,53.2,On Track
+BNK006,2024-05-01,May-2024,Meena Pillai,9,2,3,3,63.2,Lagging on Volume
+BNK006,2024-06-01,Jun-2024,Meena Pillai,3,1,5,4,64.4,Performing Well
+BNK006,2024-07-01,Jul-2024,Meena Pillai,3,2,2,5,82.8,Lagging on Volume
+BNK006,2024-08-01,Aug-2024,Meena Pillai,9,5,1,4,97.3,Needs Attention
+BNK006,2024-09-01,Sep-2024,Meena Pillai,3,10,1,2,54.8,Performing Well
+BNK006,2024-10-01,Oct-2024,Meena Pillai,3,6,0,5,80.5,Lagging on Volume
+BNK006,2024-11-01,Nov-2024,Meena Pillai,9,2,5,5,88.6,On Track
+BNK006,2024-12-01,Dec-2024,Meena Pillai,8,3,5,2,68.6,Needs Attention
+BNK006,2025-01-01,Jan-2025,Meena Pillai,5,3,5,4,96.8,Performing Well
+BNK006,2025-02-01,Feb-2025,Meena Pillai,6,8,5,3,81.8,Needs Attention
+BNK006,2025-03-01,Mar-2025,Meena Pillai,8,5,5,0,97.7,Performing Well
+BNK007,2024-04-01,Apr-2024,Amit Sharma,10,7,1,2,87.3,Needs Attention
+BNK007,2024-05-01,May-2024,Amit Sharma,8,1,0,0,55.8,Performing Well
+BNK007,2024-06-01,Jun-2024,Amit Sharma,5,6,2,4,84.3,Needs Attention
+BNK007,2024-07-01,Jul-2024,Amit Sharma,10,8,5,4,77.6,Needs Attention
+BNK007,2024-08-01,Aug-2024,Amit Sharma,9,1,1,0,99.2,Performing Well
+BNK007,2024-09-01,Sep-2024,Amit Sharma,3,4,0,2,95.4,Performing Well
+BNK007,2024-10-01,Oct-2024,Amit Sharma,3,10,3,0,91.8,Lagging on Volume
+BNK007,2024-11-01,Nov-2024,Amit Sharma,4,5,1,1,80.5,Needs Attention
+BNK007,2024-12-01,Dec-2024,Amit Sharma,8,6,5,2,83.0,Performing Well
+BNK007,2025-01-01,Jan-2025,Amit Sharma,5,1,2,5,89.7,Excellent Growth
+BNK007,2025-02-01,Feb-2025,Amit Sharma,9,8,2,3,74.8,Excellent Growth
+BNK007,2025-03-01,Mar-2025,Amit Sharma,4,2,5,1,89.3,Excellent Growth
+BNK008,2024-04-01,Apr-2024,Pooja Gupta,6,1,5,2,87.9,Lagging on Volume
+BNK008,2024-05-01,May-2024,Pooja Gupta,9,3,3,2,66.3,On Track
+BNK008,2024-06-01,Jun-2024,Pooja Gupta,4,7,0,4,78.5,Performing Well
+BNK008,2024-07-01,Jul-2024,Pooja Gupta,10,1,0,2,83.0,Needs Attention
+BNK008,2024-08-01,Aug-2024,Pooja Gupta,5,2,1,1,68.9,Excellent Growth
+BNK008,2024-09-01,Sep-2024,Pooja Gupta,9,1,0,4,59.8,Lagging on Volume
+BNK008,2024-10-01,Oct-2024,Pooja Gupta,9,2,1,5,75.4,Excellent Growth
+BNK008,2024-11-01,Nov-2024,Pooja Gupta,6,1,5,3,64.0,On Track
+BNK008,2024-12-01,Dec-2024,Pooja Gupta,4,4,5,4,80.2,Lagging on Volume
+BNK008,2025-01-01,Jan-2025,Pooja Gupta,5,8,0,5,95.3,Performing Well
+BNK008,2025-02-01,Feb-2025,Pooja Gupta,9,1,1,1,76.0,Lagging on Volume
+BNK008,2025-03-01,Mar-2025,Pooja Gupta,8,3,4,2,86.7,Excellent Growth
+BNK009,2024-04-01,Apr-2024,Rajan Mehta,9,9,5,0,77.3,Performing Well
+BNK009,2024-05-01,May-2024,Rajan Mehta,6,10,3,3,84.8,On Track
+BNK009,2024-06-01,Jun-2024,Rajan Mehta,3,1,3,1,74.8,Performing Well
+BNK009,2024-07-01,Jul-2024,Rajan Mehta,7,5,2,3,84.2,Performing Well
+BNK009,2024-08-01,Aug-2024,Rajan Mehta,7,5,0,0,72.6,Excellent Growth
+BNK009,2024-09-01,Sep-2024,Rajan Mehta,5,7,1,3,82.0,Performing Well
+BNK009,2024-10-01,Oct-2024,Rajan Mehta,7,4,2,3,91.5,Excellent Growth
+BNK009,2024-11-01,Nov-2024,Rajan Mehta,4,7,0,5,63.0,Performing Well
+BNK009,2024-12-01,Dec-2024,Rajan Mehta,6,10,4,2,97.7,Excellent Growth
+BNK009,2025-01-01,Jan-2025,Rajan Mehta,3,8,4,5,89.1,Lagging on Volume
+BNK009,2025-02-01,Feb-2025,Rajan Mehta,8,9,2,3,75.4,Needs Attention
+BNK009,2025-03-01,Mar-2025,Rajan Mehta,10,6,3,5,99.3,Excellent Growth
+BNK010,2024-04-01,Apr-2024,Vikram Singh,4,7,3,4,65.5,Needs Attention
+BNK010,2024-05-01,May-2024,Vikram Singh,7,1,3,5,60.5,Lagging on Volume
+BNK010,2024-06-01,Jun-2024,Vikram Singh,4,8,3,3,54.7,Needs Attention
+BNK010,2024-07-01,Jul-2024,Vikram Singh,8,1,5,5,50.1,Excellent Growth
+BNK010,2024-08-01,Aug-2024,Vikram Singh,6,7,4,1,57.4,Needs Attention
+BNK010,2024-09-01,Sep-2024,Vikram Singh,8,5,0,1,95.2,Lagging on Volume
+BNK010,2024-10-01,Oct-2024,Vikram Singh,8,3,4,2,84.1,On Track
+BNK010,2024-11-01,Nov-2024,Vikram Singh,5,4,0,1,96.5,Lagging on Volume
+BNK010,2024-12-01,Dec-2024,Vikram Singh,8,4,1,3,61.9,Performing Well
+BNK010,2025-01-01,Jan-2025,Vikram Singh,4,5,4,3,57.8,Excellent Growth
+BNK010,2025-02-01,Feb-2025,Vikram Singh,3,4,1,1,62.3,Lagging on Volume
+BNK010,2025-03-01,Mar-2025,Vikram Singh,10,2,2,3,89.6,Performing Well
+BNK011,2024-04-01,Apr-2024,Amit Sharma,3,10,1,5,67.8,Performing Well
+BNK011,2024-05-01,May-2024,Amit Sharma,8,8,0,1,51.8,Lagging on Volume
+BNK011,2024-06-01,Jun-2024,Amit Sharma,4,8,2,0,59.7,Performing Well
+BNK011,2024-07-01,Jul-2024,Amit Sharma,7,6,4,2,90.0,Lagging on Volume
+BNK011,2024-08-01,Aug-2024,Amit Sharma,4,3,0,4,78.2,Excellent Growth
+BNK011,2024-09-01,Sep-2024,Amit Sharma,4,3,3,5,86.6,On Track
+BNK011,2024-10-01,Oct-2024,Amit Sharma,9,6,0,3,86.7,On Track
+BNK011,2024-11-01,Nov-2024,Amit Sharma,5,3,1,4,82.5,On Track
+BNK011,2024-12-01,Dec-2024,Amit Sharma,8,7,2,2,71.0,Performing Well
+BNK011,2025-01-01,Jan-2025,Amit Sharma,6,1,2,2,68.5,Performing Well
+BNK011,2025-02-01,Feb-2025,Amit Sharma,8,1,1,3,60.6,Performing Well
+BNK011,2025-03-01,Mar-2025,Amit Sharma,9,1,3,3,74.4,Excellent Growth
+BNK012,2024-04-01,Apr-2024,Amit Sharma,7,4,1,5,56.8,Lagging on Volume
+BNK012,2024-05-01,May-2024,Amit Sharma,6,10,5,4,53.1,Lagging on Volume
+BNK012,2024-06-01,Jun-2024,Amit Sharma,3,1,4,1,84.7,Needs Attention
+BNK012,2024-07-01,Jul-2024,Amit Sharma,9,10,3,5,83.0,Needs Attention
+BNK012,2024-08-01,Aug-2024,Amit Sharma,9,10,0,1,97.3,Needs Attention
+BNK012,2024-09-01,Sep-2024,Amit Sharma,5,1,4,3,68.7,Performing Well
+BNK012,2024-10-01,Oct-2024,Amit Sharma,3,7,0,3,88.7,On Track
+BNK012,2024-11-01,Nov-2024,Amit Sharma,9,8,0,5,53.4,Performing Well
+BNK012,2024-12-01,Dec-2024,Amit Sharma,4,3,0,0,60.4,Needs Attention
+BNK012,2025-01-01,Jan-2025,Amit Sharma,7,5,4,0,72.9,Excellent Growth
+BNK012,2025-02-01,Feb-2025,Amit Sharma,10,3,0,3,59.1,On Track
+BNK012,2025-03-01,Mar-2025,Amit Sharma,6,4,5,1,79.4,On Track
+BNK013,2024-04-01,Apr-2024,Amit Sharma,5,10,3,5,80.5,On Track
+BNK013,2024-05-01,May-2024,Amit Sharma,3,6,1,0,74.0,Needs Attention
+BNK013,2024-06-01,Jun-2024,Amit Sharma,5,7,0,0,94.9,Needs Attention
+BNK013,2024-07-01,Jul-2024,Amit Sharma,5,9,1,5,73.2,Performing Well
+BNK013,2024-08-01,Aug-2024,Amit Sharma,5,8,0,2,64.3,Excellent Growth
+BNK013,2024-09-01,Sep-2024,Amit Sharma,8,8,5,4,76.8,Lagging on Volume
+BNK013,2024-10-01,Oct-2024,Amit Sharma,5,9,1,0,70.0,Needs Attention
+BNK013,2024-11-01,Nov-2024,Amit Sharma,5,9,5,5,87.1,On Track
+BNK013,2024-12-01,Dec-2024,Amit Sharma,5,7,4,4,52.7,Performing Well
+BNK013,2025-01-01,Jan-2025,Amit Sharma,7,7,5,3,68.3,Excellent Growth
+BNK013,2025-02-01,Feb-2025,Amit Sharma,8,3,5,2,74.6,On Track
+BNK013,2025-03-01,Mar-2025,Amit Sharma,9,1,5,3,94.3,Performing Well
+BNK014,2024-04-01,Apr-2024,Priya Nair,10,3,5,5,62.9,Performing Well
+BNK014,2024-05-01,May-2024,Priya Nair,5,6,3,1,72.7,Lagging on Volume
+BNK014,2024-06-01,Jun-2024,Priya Nair,7,8,3,4,95.3,Performing Well
+BNK014,2024-07-01,Jul-2024,Priya Nair,3,8,0,5,85.0,Performing Well
+BNK014,2024-08-01,Aug-2024,Priya Nair,9,6,3,3,72.9,On Track
+BNK014,2024-09-01,Sep-2024,Priya Nair,9,2,1,4,75.7,Excellent Growth
+BNK014,2024-10-01,Oct-2024,Priya Nair,10,3,4,2,57.8,Excellent Growth
+BNK014,2024-11-01,Nov-2024,Priya Nair,3,10,1,4,89.8,Needs Attention
+BNK014,2024-12-01,Dec-2024,Priya Nair,9,2,5,5,87.8,Performing Well
+BNK014,2025-01-01,Jan-2025,Priya Nair,4,8,0,0,67.1,Lagging on Volume
+BNK014,2025-02-01,Feb-2025,Priya Nair,4,9,3,0,66.7,Lagging on Volume
+BNK014,2025-03-01,Mar-2025,Priya Nair,3,4,0,5,92.0,Lagging on Volume
+BNK015,2024-04-01,Apr-2024,Priya Nair,9,5,3,4,91.9,On Track
+BNK015,2024-05-01,May-2024,Priya Nair,5,8,4,4,59.5,On Track
+BNK015,2024-06-01,Jun-2024,Priya Nair,5,5,1,4,84.2,Needs Attention
+BNK015,2024-07-01,Jul-2024,Priya Nair,8,5,0,3,89.6,On Track
+BNK015,2024-08-01,Aug-2024,Priya Nair,4,10,4,5,63.1,On Track
+BNK015,2024-09-01,Sep-2024,Priya Nair,10,1,5,0,73.6,Excellent Growth
+BNK015,2024-10-01,Oct-2024,Priya Nair,9,8,0,2,58.5,Lagging on Volume
+BNK015,2024-11-01,Nov-2024,Priya Nair,10,2,5,0,73.6,Performing Well
+BNK015,2024-12-01,Dec-2024,Priya Nair,3,5,1,1,71.2,Excellent Growth
+BNK015,2025-01-01,Jan-2025,Priya Nair,8,8,4,3,72.7,Needs Attention
+BNK015,2025-02-01,Feb-2025,Priya Nair,7,7,0,5,52.7,On Track
+BNK015,2025-03-01,Mar-2025,Priya Nair,4,1,4,0,52.6,Lagging on Volume
+BNK016,2024-04-01,Apr-2024,Amit Sharma,3,2,3,4,86.8,On Track
+BNK016,2024-05-01,May-2024,Amit Sharma,5,1,2,0,57.4,Performing Well
+BNK016,2024-06-01,Jun-2024,Amit Sharma,10,3,5,5,61.5,Excellent Growth
+BNK016,2024-07-01,Jul-2024,Amit Sharma,5,1,0,0,99.5,Needs Attention
+BNK016,2024-08-01,Aug-2024,Amit Sharma,10,6,4,4,73.7,Lagging on Volume
+BNK016,2024-09-01,Sep-2024,Amit Sharma,8,4,4,3,66.1,Lagging on Volume
+BNK016,2024-10-01,Oct-2024,Amit Sharma,7,5,1,2,57.6,Excellent Growth
+BNK016,2024-11-01,Nov-2024,Amit Sharma,7,3,0,2,54.2,Performing Well
+BNK016,2024-12-01,Dec-2024,Amit Sharma,4,6,5,1,72.0,On Track
+BNK016,2025-01-01,Jan-2025,Amit Sharma,8,2,1,1,72.9,Excellent Growth
+BNK016,2025-02-01,Feb-2025,Amit Sharma,6,8,3,3,87.1,Excellent Growth
+BNK016,2025-03-01,Mar-2025,Amit Sharma,10,7,4,0,87.2,Lagging on Volume
+BNK017,2024-04-01,Apr-2024,Priya Nair,3,9,2,2,74.8,On Track
+BNK017,2024-05-01,May-2024,Priya Nair,10,5,4,5,52.3,Performing Well
+BNK017,2024-06-01,Jun-2024,Priya Nair,7,10,5,3,75.8,On Track
+BNK017,2024-07-01,Jul-2024,Priya Nair,7,5,4,4,51.7,On Track
+BNK017,2024-08-01,Aug-2024,Priya Nair,6,6,4,3,58.5,On Track
+BNK017,2024-09-01,Sep-2024,Priya Nair,8,8,2,2,66.5,Excellent Growth
+BNK017,2024-10-01,Oct-2024,Priya Nair,9,4,1,2,68.7,Needs Attention
+BNK017,2024-11-01,Nov-2024,Priya Nair,8,3,3,5,79.6,On Track
+BNK017,2024-12-01,Dec-2024,Priya Nair,4,2,5,0,95.6,Excellent Growth
+BNK017,2025-01-01,Jan-2025,Priya Nair,8,2,4,2,70.5,Lagging on Volume
+BNK017,2025-02-01,Feb-2025,Priya Nair,8,10,1,1,53.8,Performing Well
+BNK017,2025-03-01,Mar-2025,Priya Nair,9,2,4,5,60.5,Lagging on Volume
+BNK018,2024-04-01,Apr-2024,Meena Pillai,6,5,5,4,50.4,On Track
+BNK018,2024-05-01,May-2024,Meena Pillai,5,3,5,3,63.2,Performing Well
+BNK018,2024-06-01,Jun-2024,Meena Pillai,10,3,0,2,92.6,Performing Well
+BNK018,2024-07-01,Jul-2024,Meena Pillai,5,10,4,3,96.1,Excellent Growth
+BNK018,2024-08-01,Aug-2024,Meena Pillai,4,10,1,0,92.7,Performing Well
+BNK018,2024-09-01,Sep-2024,Meena Pillai,10,5,4,5,77.0,Lagging on Volume
+BNK018,2024-10-01,Oct-2024,Meena Pillai,7,7,0,2,58.7,Needs Attention
+BNK018,2024-11-01,Nov-2024,Meena Pillai,10,2,3,5,77.4,Performing Well
+BNK018,2024-12-01,Dec-2024,Meena Pillai,10,3,0,2,71.5,Lagging on Volume
+BNK018,2025-01-01,Jan-2025,Meena Pillai,5,8,2,4,52.4,Performing Well
+BNK018,2025-02-01,Feb-2025,Meena Pillai,8,3,4,1,71.2,Lagging on Volume
+BNK018,2025-03-01,Mar-2025,Meena Pillai,10,10,4,4,73.1,Lagging on Volume
+BNK019,2024-04-01,Apr-2024,Vikram Singh,8,5,2,2,75.6,Lagging on Volume
+BNK019,2024-05-01,May-2024,Vikram Singh,7,2,1,2,50.2,Excellent Growth
+BNK019,2024-06-01,Jun-2024,Vikram Singh,5,10,5,1,70.8,On Track
+BNK019,2024-07-01,Jul-2024,Vikram Singh,8,10,3,1,84.8,Performing Well
+BNK019,2024-08-01,Aug-2024,Vikram Singh,4,10,1,2,68.8,Needs Attention
+BNK019,2024-09-01,Sep-2024,Vikram Singh,3,2,1,2,92.1,Excellent Growth
+BNK019,2024-10-01,Oct-2024,Vikram Singh,7,5,3,4,62.1,Performing Well
+BNK019,2024-11-01,Nov-2024,Vikram Singh,9,2,0,2,70.5,Lagging on Volume
+BNK019,2024-12-01,Dec-2024,Vikram Singh,5,3,5,1,93.4,On Track
+BNK019,2025-01-01,Jan-2025,Vikram Singh,10,1,5,3,66.8,Performing Well
+BNK019,2025-02-01,Feb-2025,Vikram Singh,3,6,1,0,68.9,Needs Attention
+BNK019,2025-03-01,Mar-2025,Vikram Singh,5,8,5,2,62.1,On Track
+BNK020,2024-04-01,Apr-2024,Priya Nair,6,8,5,1,90.4,Lagging on Volume
+BNK020,2024-05-01,May-2024,Priya Nair,4,9,3,5,82.4,Performing Well
+BNK020,2024-06-01,Jun-2024,Priya Nair,7,8,2,3,59.4,On Track
+BNK020,2024-07-01,Jul-2024,Priya Nair,4,3,5,0,60.5,On Track
+BNK020,2024-08-01,Aug-2024,Priya Nair,10,9,1,4,95.2,Excellent Growth
+BNK020,2024-09-01,Sep-2024,Priya Nair,3,7,3,0,65.9,Performing Well
+BNK020,2024-10-01,Oct-2024,Priya Nair,8,10,4,2,75.7,Lagging on Volume
+BNK020,2024-11-01,Nov-2024,Priya Nair,6,6,3,2,85.4,Performing Well
+BNK020,2024-12-01,Dec-2024,Priya Nair,4,9,0,1,81.4,Excellent Growth
+BNK020,2025-01-01,Jan-2025,Priya Nair,5,6,1,0,96.9,Excellent Growth
+BNK020,2025-02-01,Feb-2025,Priya Nair,9,7,4,0,95.6,Performing Well
+BNK020,2025-03-01,Mar-2025,Priya Nair,7,7,4,5,80.3,Performing Well
