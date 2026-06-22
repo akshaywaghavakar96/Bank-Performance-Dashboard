@@ -2,7 +2,7 @@
 
 **Python · Dash · PostgreSQL · Plotly · Pandas**
 
-> Real-time NPCI payments monitoring across 20 member banks — FY 2024-25
+> Real-time payments monitoring across 20 member banks — FY 2024-25
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![Dash](https://img.shields.io/badge/Dash-2.x-teal?logo=plotly)](https://dash.plotly.com)
@@ -13,7 +13,7 @@
 
 ## 📌 What This Project Does
 
-A full-stack, database-driven analytical dashboard built to monitor and evaluate the performance of member banks across NPCI's payment products (UPI, IMPS, AEPS, NFS, RuPay).
+A full-stack, database-driven analytical dashboard built to monitor and evaluate the performance of member banks across payment products (UPI, IMPS, AEPS, NFS, RuPay).
 
 It connects directly to a PostgreSQL database, runs dynamic SQL queries based on active user filters, and renders interactive charts and KPI cards in the browser — all in real-time with zero manual refresh.
 
